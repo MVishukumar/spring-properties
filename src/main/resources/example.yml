@@ -1,0 +1,37 @@
+# This is comment
+
+# Variable
+name: Vishu
+
+# List
+names:
+  - Vishu
+  - Jack
+  - Jones
+
+# Variable
+pound_sign: "#"
+
+# Object
+book:
+  author: Joe Buck
+  publisher: Random House Publications
+
+# Boolean
+truth: yes
+another_true: True
+more_true: true
+false: no # False, false, No
+
+# String
+string_quote: "This is today's quote"
+colon_string: "First statement : second statement"
+include_new_lines: |
+  first line
+  second line
+  third line
+
+ignore_new_line: >
+  first line
+  second line
+  third line

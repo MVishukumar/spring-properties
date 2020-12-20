@@ -1,0 +1,9 @@
+# Datasource Properties
+spring.username=vishu
+spring.password=password
+spring.dburl=http://127.0.0.1
+
+# JMS Properties
+spring.jms.username=jms_vishu
+spring.jms.password=jms_password
+spring.jms.dburl=http://127.0.0.2
