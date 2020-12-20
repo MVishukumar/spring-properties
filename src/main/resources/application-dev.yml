@@ -1,0 +1,5 @@
+spring:
+  jms:
+    username: jms_yml_vishu_dev
+    password: jms_yml_password_dev
+    dburl: jms_yml_url_dev

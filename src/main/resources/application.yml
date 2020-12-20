@@ -1,4 +1,6 @@
 spring:
+  profiles:
+    active: dev
   jms:
     username: jms_yml_vishu
     password: jms_yml_password
